@@ -14,4 +14,4 @@ def get_the_values(groceries)
 
 end
 
-get_the_values(groceries)
+p get_the_values(groceries)
