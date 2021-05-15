@@ -11,6 +11,7 @@ groceries = {
 
 def get_the_values(groceries)
   groceries.values
+  binding.pry
 end
 
 p get_the_values(groceries)
